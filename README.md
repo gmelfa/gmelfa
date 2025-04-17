@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Gabriel
-Formado em química, mestrado em quimica analítica estatística, estudo programação a mais de 2 anos em transição de carreira para a area de Dados, em formação pela EBAC
+Formado em química, mestrado em quimica analítica estatística, eterno estudante de programação em transição de carreira, com cursos realizados na EBAC e ALURA.
 
 
 ### Detalhes
